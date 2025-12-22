@@ -1,1 +1,0 @@
-print("Sample demo file for weekly test.")
